@@ -127,7 +127,7 @@ function actualizarTotal(){
 }
 
 botonComprar.addEventListener("click", comprarCarrito);
-const numeroWhatsApp = "523331080912"; 
+const numeroWhatsApp = "523314449854"; 
 
 function comprarCarrito() {
     if (productosEnCarrito.length === 0) return;
